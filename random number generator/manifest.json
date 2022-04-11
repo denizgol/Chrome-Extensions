@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Number Generator",
+  "name": "Random Number Generator",
   "description": "number generator for everyone by kxvet" ,
   "version": "1.0",
   "icons": {

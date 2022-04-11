@@ -1,4 +1,4 @@
-#chrome-extension-installer
+#chrome-extension-installer!
 
 1-)In Chrome, open the Extensions settings.
 2-)On the Extensions settings page, click the "Developer Mode" checkbox.

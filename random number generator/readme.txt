@@ -1,6 +1,8 @@
-#chrome-extension-installer!
+#Load the extension in Chrome & Opera
+1-)Open Chrome/Opera browser and navigate to chrome://extensions
+2-)Select "Developer Mode" and then click "Load unpacked extension..."
+3-)From the file browser, choose to extension-boilerplate/build/chrome or (extension-boilerplate/build/opera)
 
-1-)In Chrome, open the Extensions settings.
-2-)On the Extensions settings page, click the "Developer Mode" checkbox.
-3-)Click the now-visible "Load unpacked extension…" button. Go to the directory where you downloaded the file, then select the file.
-4-)This extension should now be visible in your extensions list.
+#Load the extension in Firefox
+Open Firefox browser and navigate to about:debugging
+Click "Load Temporary Add-on" and from the file browser, choose extension-boilerplate/build/firefox

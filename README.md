@@ -1,5 +1,5 @@
-# Chrome-Extensions
-Extensions for chrome
+#Extensions
+Extensions for chrome/opera/firefox
 
 #Load the extension in Chrome & Opera
 1-)Open Chrome/Opera browser and navigate to chrome://extensions

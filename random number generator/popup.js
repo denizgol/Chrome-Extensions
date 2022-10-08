@@ -4,7 +4,7 @@ function generate() {
  
       var min= document.getElementById("minkutu").value;
       var max= document.getElementById("maxkutu").value;
-      if(max<9999999 && min<9999999 && min==110 && min==188 && min==32 && max==110 && max==188 && max==32){
+      if(max<9999999 && min<9999999 && min!=110 && min!=188 && min!=32 && max!=110 && max!=188 && max!=32){
 
       if(min==max){
          max++;

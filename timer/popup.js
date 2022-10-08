@@ -2,7 +2,6 @@
 
 window.onload = function () {
     
-  
   var sec = 00; 
   var tens = 00; 
   var min=00;
